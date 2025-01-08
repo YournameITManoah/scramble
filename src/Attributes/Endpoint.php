@@ -16,7 +16,5 @@ class Endpoint
          * by the operationId (with `SORT_LOCALE_STRING` sorting flag).
          */
         public readonly int $weight = INF,
-    )
-    {
-    }
+    ) {}
 }
